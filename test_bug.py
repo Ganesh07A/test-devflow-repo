@@ -5,4 +5,4 @@ def get_user(user_id):
 
 # Division code
 def divide(a, b):
-    return a / b  # What if b is 0?
+    return a / b 
