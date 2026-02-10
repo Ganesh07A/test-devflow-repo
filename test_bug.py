@@ -15,3 +15,7 @@ def factorial(num):
         num -=1
 
     return fact
+
+
+def mul(num):
+    return num * num
