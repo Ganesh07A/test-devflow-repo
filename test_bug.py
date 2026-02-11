@@ -19,3 +19,5 @@ def factorial(num):
 
 def mul(num):
     return num * num
+
+#multiplication
