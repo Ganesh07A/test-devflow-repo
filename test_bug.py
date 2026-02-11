@@ -17,5 +17,6 @@ def factorial(num):
     return fact
 
 
+#mul
 def mul(num):
     return num * num
