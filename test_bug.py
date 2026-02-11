@@ -17,7 +17,7 @@ def factorial(num):
     return fact
  
 
-
+print("Enter a number: ")
 
 def mul(num):
     return num * num
