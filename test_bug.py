@@ -20,3 +20,6 @@ def factorial(num):
 #multiplication
 def square(num):
     return num ** num
+
+
+print("Enter any time !")
