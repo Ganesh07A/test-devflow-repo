@@ -1,5 +1,5 @@
 def get_user(user_id):
-    # SQL injection
+    # SQL injection``
     query = f"SELECT * FROM users WHERE id = {user_id}"
     return db.execute(query)
 
@@ -17,6 +17,6 @@ def factorial(num):
     return fact
 
 
-#mul
-def mul(num):
-    return num * num
+#multiplication
+def square(num):
+    return num ** num
