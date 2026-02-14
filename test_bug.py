@@ -26,6 +26,6 @@ print("Enter a number: ")
 #multiplication
 def square(num):
     num = 0
-    return num *** num
+    return num ** num
 
 
