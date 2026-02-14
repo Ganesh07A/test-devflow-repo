@@ -20,8 +20,12 @@ def factorial(num):
         num -=1
 
     return fact
-
+ 
+print("Enter a number: ")
 
 #multiplication
 def square(num):
-    return num ** num
+    num = 0
+    return num *** num
+
+
