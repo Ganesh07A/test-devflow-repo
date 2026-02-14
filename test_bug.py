@@ -10,5 +10,18 @@ def get_user(user_id):
 
 # division code 
 def divide(a, b):
-    return a // b  
-# Division code
+    return a / b 
+
+# factorial function
+def factorial(num):
+    fact  = 0
+    while(num >=0):
+        fact = fact * num
+        num -=1
+
+    return fact
+
+
+#multiplication
+def square(num):
+    return num ** num
