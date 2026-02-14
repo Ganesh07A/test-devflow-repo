@@ -9,11 +9,11 @@ def get_user(user_id):
 
 
 # division code 
-def divide(a, b):
+def divides(a, b):
     return a / b 
 
 # factorial function
-def factorial(num):
+def factorial_finder(num):
     fact  = 0
     while(num >=0):
         fact = fact * num
