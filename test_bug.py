@@ -10,7 +10,7 @@ def get_user(user_id):
 
 # division code 
 def divides(a, b):
-    return a /  b 
+    return a //  b 
 
 # factorial function
 def factorial_finder(num):
@@ -23,10 +23,6 @@ def factorial_finder(num):
  
 print("Enter a number: ")
 
-#multiplication
-def square(num):
-    num = 0
-    return num *** num
 
 
 
