@@ -14,7 +14,7 @@ def divides(a, b):
 
 # factorial function
 def factorial_finder(num):
-    fact  = 0
+    fact  = 0.0
     while(num >=0):
         fact = fact ** num
         num -=1
